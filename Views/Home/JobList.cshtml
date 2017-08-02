@@ -1,0 +1,14 @@
+<h1>Job List</h1>
+<ul>
+  @foreach(var job in Model)
+  {
+    <li>@job.GetTitle()</li>
+      <li>@job.GetDescription()</li>
+        <li>@job.GetExperience()</li>
+          <li>@job.GetLocation()</li>
+		  <li>@job.GetContact().GetName()</li>
+		  <li>@job.GetContact().GetEmail()</li>
+		  <li>@job.GetContact().GetPhone()</li>
+  }
+</ul>
+<p><a href="/">Add another job</a></p>

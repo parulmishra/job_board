@@ -1,0 +1,8 @@
+C:\Users\amdubedy\desktop\mywork\job_board\bin\Debug\netcoreapp1.1\JobBoard.deps.json
+C:\Users\amdubedy\desktop\mywork\job_board\bin\Debug\netcoreapp1.1\JobBoard.runtimeconfig.json
+C:\Users\amdubedy\desktop\mywork\job_board\bin\Debug\netcoreapp1.1\JobBoard.runtimeconfig.dev.json
+C:\Users\amdubedy\desktop\mywork\job_board\obj\Debug\netcoreapp1.1\JobBoard.AssemblyInfo.cs
+C:\Users\amdubedy\desktop\mywork\job_board\bin\Debug\netcoreapp1.1\JobBoard.dll
+C:\Users\amdubedy\desktop\mywork\job_board\bin\Debug\netcoreapp1.1\JobBoard.pdb
+C:\Users\amdubedy\desktop\mywork\job_board\obj\Debug\netcoreapp1.1\JobBoard.dll
+C:\Users\amdubedy\desktop\mywork\job_board\obj\Debug\netcoreapp1.1\JobBoard.pdb
